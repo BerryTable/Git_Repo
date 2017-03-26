@@ -50,7 +50,7 @@ public class testGetRequest_ResponseFormat {
 		
 		Assert.assertEquals((HttpStatus.SC_OK), s1.getStatusCode());
 		
-		Assert.assertEquals(HttpStatus.), actual);
+		//Assert.assertEquals(HttpStatus.), actual);
 		
 				}
 	

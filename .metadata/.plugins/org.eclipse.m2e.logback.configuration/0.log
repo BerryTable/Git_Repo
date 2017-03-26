@@ -1,0 +1,2 @@
+2017-03-26 15:27:22,829 [Worker-2] ERROR o.e.m2e.scm.MavenCheckoutOperation - SCM provider is not available for scm:null:https://github.com
+2017-03-26 15:27:22,844 [Worker-2] INFO  o.e.m.s.i.w.MavenProjectCheckoutJob - No Maven projects to import
